@@ -1,0 +1,598 @@
+﻿<app>
+	<page id="home">
+		<music></music>
+		<type>home</type>
+		<title>خانه</title>
+		<image></image>
+		<released/>
+		<customer/>
+		<content align="1" x='' y='' w='750'></content>
+		<links>
+		</links>
+	</page>
+<!------------------------------------------------------------------------------------------------------>
+
+		
+		
+		
+		<page id="Register">
+			<type>src.Register</type>
+			<title>ثبت نام</title>
+			<image></image>
+		</page>
+		<page id="About">
+			<type>src.About</type>
+			<title>درباره شوچی</title>
+			<image></image>
+		</page>
+		<page id="ContactUs">
+			<type>src.ContactUs</type>
+			<title>تماس با شوچی</title>
+			<image></image>
+		</page>	
+
+<!------------------------------------------------------------------------------------------->		
+
+<page id="Places1">
+		<type>src.WebViewPage</type>
+		<title>ایستگاه اتوبوس</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/bus-station</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places2">
+		<type>src.WebViewPage</type>
+		<title>سینما</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/cinema</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places3">
+		<type>src.WebViewPage</type>
+		<title>ورزشگاه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/tadium</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places4">
+		<type>src.WebViewPage</type>
+		<title>سوپر مارکت</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/super-market</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places5">
+		<type>src.WebViewPage</type>
+		<title>مترو</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/subway-metro</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places6">
+		<type>src.WebViewPage</type>
+		<title>داروخانه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/pharmacy</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places7">
+		<type>src.WebViewPage</type>
+		<title>بیمارستان</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/hospital</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places8">
+		<type>src.WebViewPage</type>
+		<title>فرودگاه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/airport</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places9">
+		<type>src.WebViewPage</type>
+		<title>راه آهن</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/railway-station</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places10">
+		<type>src.WebViewPage</type>
+		<title>رستوران</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/restaurant</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places11">
+		<type>src.WebViewPage</type>
+		<title>پایانه مسافری</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/terminal</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places12">
+		<type>src.WebViewPage</type>
+		<title>مجتمع تجاری</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/commercial-complex</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places13">
+		<type>src.WebViewPage</type>
+		<title>گمرک</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/customs</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places14">
+		<type>src.WebViewPage</type>
+		<title>پایانه باربری</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/cargo-terminal</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places15">
+		<type>src.WebViewPage</type>
+		<title>فضاهای دولتی</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/government-places</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places16">
+		<type>src.WebViewPage</type>
+		<title>فضاهای شخصی</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/unique-personal-space</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places17">
+		<type>src.WebViewPage</type>
+		<title>جایگاه سوخت</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/gas-station-billboard</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places18">
+		<type>src.WebViewPage</type>
+		<title>ایستگاه دوچرخه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/bicycle-station</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places19">
+		<type>src.WebViewPage</type>
+		<title>راه های برون شهری</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/rural-roads</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Places20">
+		<type>src.WebViewPage</type>
+		<title>نانوایی</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-place/the-bakery</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools1">
+		<type>src.WebViewPage</type>
+		<title>بیلبورد</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/billboard</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools2">
+		<type>src.WebViewPage</type>
+		<title>عرشه پل</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/ridge-deck</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools3">
+		<type>src.WebViewPage</type>
+		<title>استرابرد</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/straboard</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools4">
+		<type>src.WebViewPage</type>
+		<title>لمپ بوست بنر</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/lamp-post-banners</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools5">
+		<type>src.WebViewPage</type>
+		<title>اسکرول لایت باکس</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/scrolling-light-box-</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools6">
+		<type>src.WebViewPage</type>
+		<title>پایه فنری با فک متحرک</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/banner-stand-with-movable-jaw-</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools7">
+		<type>src.WebViewPage</type>
+		<title>تلوزیون شهری</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/large-led-display</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools8">
+		<type>src.WebViewPage</type>
+		<title>کیوسک برد</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/kiosk-board</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools9">
+		<type>src.WebViewPage</type>
+		<title>گیت ورودی</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/entrance-gates</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools10">
+		<type>src.WebViewPage</type>
+		<title>کتیبه های داخل واگن</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/billboards-inside-the-metro-wagon</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools11">
+		<type>src.WebViewPage</type>
+		<title>تابلوی بنری ایستگاه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/station-banners</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools12">
+		<type>src.WebViewPage</type>
+		<title>تبلیغ روی بدنه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/ad-on-the-body</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools13">
+		<type>src.WebViewPage</type>
+		<title>دستگیره های داخلی</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/ads-on-internal-handles</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools14">
+		<type>src.WebViewPage</type>
+		<title>ماکت حجمی</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/-olumetric-advertising-figure-of-the-enlarged-product-</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools15">
+		<type>src.WebViewPage</type>
+		<title>تبلیغات در کف</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/dvertising-on-the-floor</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools16">
+		<type>src.WebViewPage</type>
+		<title>ماکت سه بعدی</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/diorama</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools17">
+		<type>src.WebViewPage</type>
+		<title>تبلیغات روی نما</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/advertisements-on-the-facades-of-buildings</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools18">
+		<type>src.WebViewPage</type>
+		<title>کانتر تبلیغاتی</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/advertising-counter</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools19">
+		<type>src.WebViewPage</type>
+		<title>اسکور بورد</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/coreboard</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools20">
+		<type>src.WebViewPage</type>
+		<title>آینه هوشمند</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/smart-mirrors</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools21">
+		<type>src.WebViewPage</type>
+		<title>تبلیغ روی لباس</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/advertisements-on-players-uniforms</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools22">
+		<type>src.WebViewPage</type>
+		<title>تبلیغات دور زمین</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/ground-advertising</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools23">
+		<type>src.WebViewPage</type>
+		<title>میکسون تبلیغاتی</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/advertising-mixon</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools24">
+		<type>src.WebViewPage</type>
+		<title>نرده های پله برقی</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/escalator-railings</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools25">
+		<type>src.WebViewPage</type>
+		<title>سایر ابزارها</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/other-tools</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools26">
+		<type>src.WebViewPage</type>
+		<title>ویدئو وال</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/videowall</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools27">
+		<type>src.WebViewPage</type>
+		<title>تابلوی سردر</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/shop-board</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools28">
+		<type>src.WebViewPage</type>
+		<title>تابلوی دیواری</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/sign-wall</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools29">
+		<type>src.WebViewPage</type>
+		<title>تابلوی بالای بام</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/sign-roof</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Tools30">
+		<type>src.WebViewPage</type>
+		<title>نازل پمپ</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-type/gasoline-nozzle-adverios</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+
+<page id="Special1">
+		<type>src.WebViewPage</type>
+		<title>بسته ویژه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-pro/test3</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Special2">
+		<type>src.WebViewPage</type>
+		<title>بسته ویژه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-pro/test2</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Special3">
+		<type>src.WebViewPage</type>
+		<title>بسته ویژه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-pro/test</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Special4">
+		<type>src.WebViewPage</type>
+		<title>بسته ویژه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-pro/test4</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Special5">
+		<type>src.WebViewPage</type>
+		<title>بسته ویژه</title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-pro/pak6</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+<page id="Special6">
+		<type>src.WebViewPage</type>
+		<title></title>
+		<content align="1" x='' y='' w='750'>https://adshochi.com/advertising-pro/test5</content>
+		<images>
+		</images>
+		<links>
+		</links>
+</page>
+
+
+</app>

@@ -1,0 +1,12 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"preLaunchTask": "Adobe Animate: compile debug - adshochi.fla",
+			"program": ".\\adshochi\\adshochi-app.xml",
+			"request": "launch",
+			"name": "Debug (desktop2)",
+			"type": "swf"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"config": "airmobile",
+	"files": [
+		".\\adshochi\\adshochi.as"
+	],
+	"compilerOptions": {
+		"source-path": [
+			"C:\\Program Files\\SaffronCode\\SaffronCode-master",
+			"C:\\Program Files\\SaffronCode\\ASPack-master"
+		],
+		"external-library-path": [
+			"C:\\Program Files\\SaffronCode\\SWCPack-master"
+		]
+	},
+	"animateOptions": {
+		"file": ".\\adshochi\\adshochi.fla"
+	}, 
+	"type": "app"
+}
